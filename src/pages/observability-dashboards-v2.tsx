@@ -266,7 +266,7 @@ const ObservabilityDashboards = () => {
         <div className="px-4 sm:px-8 py-6">
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
             <div>
-              <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">Observability Dashboards</h1>
+              <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">Observe Dashboards</h1>
               <p className="mt-2 text-sm sm:text-base text-gray-600">
                 Centralized access to all Observe dashboards across Capital One Tech ecosystem
               </p>
@@ -297,7 +297,7 @@ const ObservabilityDashboards = () => {
         </div>
       </div>
 
-      <div className="px-4 sm:px-8 py-6">
+      <div className="py-6">
         {/* Summary Stats */}
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-6">
           <div className="bg-white rounded-lg border border-gray-200 p-4">
